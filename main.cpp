@@ -12,8 +12,8 @@ int main()
 	setlocale(LC_ALL, "Russian");
 
     ofstream sinFile,cosFile,amplFile,phaseFile;
-    sinFile.open("sin.txt");//синусойда
-    cosFile.open("cos.txt");//косинусойда
+    sinFile.open("sin.txt");//синусоида
+    cosFile.open("cos.txt");//косинусоида
     amplFile.open("ampl.txt");//амплитуда квадратур
     phaseFile.open("phase.txt");//фаза
 

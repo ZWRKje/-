@@ -1,0 +1,35 @@
+﻿  task.cpp
+D:\Study\6 сем\Практика\Task 5\Task 5\task.cpp(16,1): warning C4005: DEBUG: изменение макроопределения
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\atlmfc\include\atldef.h(152): message : см. предыдущее определение "DEBUG"
+D:\Study\6 сем\Практика\Task 5\Task 5\task.cpp(111,36): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\Study\6 сем\Практика\Task 5\Task 5\task.cpp(105,52): warning C4101: sled: неиспользованная локальная переменная
+D:\Study\6 сем\Практика\Task 5\Task 5\task.cpp(134,32): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\Study\6 сем\Практика\Task 5\Task 5\task.cpp(123,52): warning C4101: sled: неиспользованная локальная переменная
+D:\Study\6 сем\Практика\Task 5\Task 5\task.cpp(190,22): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+D:\Study\6 сем\Практика\Task 5\Task 5\task.cpp(219,29): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+D:\Study\6 сем\Практика\Task 5\Task 5\task.cpp(226,11): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+D:\Study\6 сем\Практика\Task 5\Task 5\task.cpp(241,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Study\6 сем\Практика\Task 5\Task 5\task.cpp(248,49): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Study\6 сем\Практика\Task 5\Task 5\task.cpp(264,46): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\Study\6 сем\Практика\Task 5\Task 5\task.cpp(315,22): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+D:\Study\6 сем\Практика\Task 5\Task 5\task.cpp(344,29): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+D:\Study\6 сем\Практика\Task 5\Task 5\task.cpp(349,11): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+D:\Study\6 сем\Практика\Task 5\Task 5\task.cpp(385,43): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\Study\6 сем\Практика\Task 5\Task 5\task.cpp(389,49): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Study\6 сем\Практика\Task 5\Task 5\task.cpp(393,38): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+D:\Study\6 сем\Практика\Task 5\Task 5\task.cpp(396,51): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\Study\6 сем\Практика\Task 5\Task 5\task.cpp(400,36): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Study\6 сем\Практика\Task 5\Task 5\task.cpp(416,30): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Study\6 сем\Практика\Task 5\Task 5\task.cpp(418,20): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\Study\6 сем\Практика\Task 5\Task 5\task.cpp(419,20): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\Study\6 сем\Практика\Task 5\Task 5\task.cpp(432,17): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\Study\6 сем\Практика\Task 5\Task 5\task.cpp(432,33): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\Study\6 сем\Практика\Task 5\Task 5\task.cpp(439,43): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\Study\6 сем\Практика\Task 5\Task 5\task.cpp(445,36): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Study\6 сем\Практика\Task 5\Task 5\task.cpp(447,44): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Study\6 сем\Практика\Task 5\Task 5\task.cpp(352,9): warning C4101: ZS: неиспользованная локальная переменная
+D:\Study\6 сем\Практика\Task 5\Task 5\task.cpp(353,9): warning C4101: ZC: неиспользованная локальная переменная
+D:\Study\6 сем\Практика\Task 5\Task 5\task.cpp(355,8): warning C4101: temp: неиспользованная локальная переменная
+D:\Study\6 сем\Практика\Task 5\Task 5\task.cpp(466,9): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\Study\6 сем\Практика\Task 5\Task 5\task.cpp(470,41): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  Task 5.vcxproj -> D:\Study\6 сем\Практика\Task 5\Debug\Task 5.exe
